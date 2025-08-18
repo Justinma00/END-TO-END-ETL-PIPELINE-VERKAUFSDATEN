@@ -1,0 +1,11 @@
+order_id,customer_name,product,quantity,unit_price,order_date
+1,Max Müller,Laptop,2,1200,2025-07-01
+2,Anna Schmidt,Smartphone,1,800,2025-07-02
+3,Lukas Weber,Laptop,1,1200,2025-07-02
+4,Max Müller,Tablet,3,400,2025-07-03
+5,Sophia Fischer,Smartphone,2,800,2025-07-04
+6,Anna Schmidt,Tablet,1,400,2025-07-05
+7,Jonas Bauer,Smartwatch,4,200,2025-07-06
+8,Max Müller,Smartphone,1,800,2025-07-06
+9,Sophia Fischer,Laptop,2,1200,2025-07-07
+10,Lukas Weber,Smartwatch,1,200,2025-07-07
