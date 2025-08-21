@@ -34,7 +34,8 @@ Im Kern ist es eine ETL-Pipeline Zum Laden, Analysieren Mit SQL und Visualisiere
 
 ## Installation
 1. Repo klonen oder Dateien herunterladen.
-2. Fähigkeit, sämtliche Bibliotheken zu installieren:
+2. Sämtliche Bibliotheken installieren:
 
 ```bash
 pip install pandas urllib3 matplotlib seaborn streamlit
+
