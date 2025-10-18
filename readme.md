@@ -32,7 +32,7 @@ Dieses Projekt bietet eine vollständige Lösung für das Extrahieren, Transform
 
 1. **Repository klonen:**
 ```bash
-git clone <repository-url>
+git clone (https://github.com/Justinma00/END-TO-END-ETL-PIPELINE-VERKAUFSDATEN)
 cd END-TO-END-ETL-PIPELINE-VERKAUFSDATEN
 ```
 
@@ -231,7 +231,7 @@ This project provides a complete solution for extracting, transforming, and load
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Justinma00/END-TO-END-ETL-PIPELINE-VERKAUFSDATEN
 cd END-TO-END-ETL-PIPELINE-VERKAUFSDATEN
 ```
 
@@ -393,4 +393,5 @@ The system includes predefined analytical queries:
 - `isort>=5.10.0` - Import sorting
 - `flake8>=5.0.0` - Linting
 - `mypy>=1.0.0` - Type checking
+
 
